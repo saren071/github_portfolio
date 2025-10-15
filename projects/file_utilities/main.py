@@ -70,6 +70,8 @@ class FileUtilities:
         This will handle the checking of system information.
         """
         print("System information:")
+        # TODO: Implement human readable output for the system information and fix multiple statements,
+        # like the GPU, the CPU name, the memory size instead of terminal size.
         print(f"Operating system: {self.os_utils.get_operating_system()}")
         print(f"Operating system version: {self.os_utils.get_operating_system_version()}")
         print(f"Operating system architecture: {self.os_utils.get_operating_system_architecture()}")
