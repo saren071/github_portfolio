@@ -1,0 +1,140 @@
+2025-10-14 22:06:47 - test - DEBUG - This is a debug message
+2025-10-14 22:06:47 - test - INFO - This is an info message
+2025-10-14 22:06:47 - test - WARNING - This is a warning message
+2025-10-14 22:06:47 - test - ERROR - This is an error message
+2025-10-14 22:06:47 - test - CRITICAL - This is a critical message
+2025-10-14 22:07:27 - launcher - INFO - Starting launcher
+2025-10-14 22:07:27 - launcher - INFO - Getting projects
+2025-10-14 22:07:27 - launcher - INFO - Launcher finished
+2025-10-14 22:07:45 - launcher - INFO - Starting launcher
+2025-10-14 22:07:45 - launcher - INFO - Getting projects
+2025-10-14 22:07:45 - launcher - INFO - Launcher finished
+2025-10-14 22:07:46 - launcher - INFO - Starting launcher
+2025-10-14 22:07:46 - launcher - INFO - Getting projects
+2025-10-14 22:07:46 - launcher - INFO - Launcher finished
+2025-10-14 22:07:47 - launcher - INFO - Starting launcher
+2025-10-14 22:07:47 - launcher - INFO - Getting projects
+2025-10-14 22:07:47 - launcher - INFO - Launcher finished
+2025-10-14 22:07:48 - launcher - INFO - Starting launcher
+2025-10-14 22:07:48 - launcher - INFO - Getting projects
+2025-10-14 22:07:48 - launcher - INFO - Launcher finished
+2025-10-14 22:07:49 - launcher - INFO - Starting launcher
+2025-10-14 22:07:49 - launcher - INFO - Getting projects
+2025-10-14 22:07:49 - launcher - INFO - Launcher finished
+2025-10-14 22:07:50 - launcher - INFO - Starting launcher
+2025-10-14 22:07:50 - launcher - INFO - Getting projects
+2025-10-14 22:07:50 - launcher - INFO - Launcher finished
+2025-10-14 22:11:01 - launcher - INFO - Starting launcher
+2025-10-14 22:11:01 - launcher - INFO - Getting projects
+2025-10-14 22:11:01 - launcher - INFO - Launcher finished
+2025-10-14 22:11:48 - launcher - INFO - Starting launcher
+2025-10-14 22:11:48 - launcher - ERROR - Project file_organizer does not have a main.py file
+2025-10-14 22:11:48 - launcher - ERROR - Project file_organizer does not have a details.json file
+2025-10-14 22:11:48 - launcher - INFO - Launcher finished
+2025-10-14 22:12:49 - launcher - INFO - Starting launcher
+2025-10-14 22:12:49 - launcher - ERROR - Project file_organizer does not have a main.py file, this is required!
+2025-10-14 22:12:49 - launcher - ERROR - Project file_organizer does not have a details.json file, consider adding one!
+2025-10-14 22:12:49 - launcher - INFO - Launcher finished
+2025-10-14 22:12:59 - launcher - INFO - Starting launcher
+2025-10-14 22:12:59 - launcher - ERROR - Project file_organizer does not have a main.py file, this is required!
+2025-10-14 22:12:59 - launcher - WARNING - Project file_organizer does not have a details.json file, consider adding one!
+2025-10-14 22:12:59 - launcher - INFO - Launcher finished
+2025-10-14 22:18:18 - launcher - INFO - Starting launcher
+2025-10-14 22:18:18 - launcher - ERROR - Project file_organizer does not have a main.py file, this is required!
+2025-10-14 22:18:18 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:18:21 - launcher - INFO - Launcher finished
+2025-10-14 22:18:51 - test - INFO - Console logging should be enabled by default
+2025-10-14 22:18:55 - test1 - INFO - This should appear in console
+2025-10-14 22:18:55 - test2 - INFO - This should NOT appear in console
+2025-10-14 22:19:39 - launcher - INFO - Starting launcher
+2025-10-14 22:19:39 - launcher - ERROR - Project file_organizer does not have a main.py file, this is required!
+2025-10-14 22:19:39 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:19:40 - launcher - INFO - Launcher finished
+2025-10-14 22:20:32 - launcher - INFO - Starting launcher
+2025-10-14 22:20:32 - launcher - ERROR - Project file_organizer does not have a main.py file, this is required!
+2025-10-14 22:20:32 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:20:34 - launcher - INFO - Launcher finished
+2025-10-14 22:21:00 - launcher - INFO - Starting launcher
+2025-10-14 22:21:00 - launcher - ERROR - Project file_organizer does not have a main.py file, this is required!
+2025-10-14 22:21:00 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:21:02 - launcher - INFO - Launcher finished
+2025-10-14 22:21:12 - launcher - INFO - Starting launcher
+2025-10-14 22:21:12 - launcher - ERROR - Project a does not have a main.py file, this is required!
+2025-10-14 22:21:12 - launcher - WARNING - Project a does not have a details.json file, consider adding one!
+2025-10-14 22:21:12 - launcher - ERROR - Project c does not have a main.py file, this is required!
+2025-10-14 22:21:12 - launcher - WARNING - Project c does not have a details.json file, consider adding one!
+2025-10-14 22:21:12 - launcher - ERROR - Project file_organizer does not have a main.py file, this is required!
+2025-10-14 22:21:12 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:21:15 - launcher - INFO - Launcher finished
+2025-10-14 22:21:58 - launcher - INFO - Starting launcher
+2025-10-14 22:21:58 - launcher - INFO - Adding project: a
+2025-10-14 22:21:58 - launcher - WARNING - Project a does not have a details.json file, consider adding one!
+2025-10-14 22:21:58 - launcher - INFO - Adding project: c
+2025-10-14 22:21:58 - launcher - WARNING - Project c does not have a details.json file, consider adding one!
+2025-10-14 22:21:58 - launcher - ERROR - Project file_organizer does not have a main.py file, this is required!
+2025-10-14 22:21:58 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:22:01 - launcher - INFO - Launcher finished
+2025-10-14 22:27:28 - launcher - INFO - Starting launcher
+2025-10-14 22:27:28 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:27:28 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:27:32 - launcher - INFO - Running project: file_organizer
+2025-10-14 22:27:36 - launcher - INFO - Launcher finished
+2025-10-14 22:29:06 - launcher - INFO - Starting launcher
+2025-10-14 22:29:06 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:29:06 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:29:15 - launcher - INFO - Launcher finished
+2025-10-14 22:29:22 - launcher - INFO - Starting launcher
+2025-10-14 22:29:22 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:29:22 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:29:24 - launcher - ERROR - Project gay does not exist
+2025-10-14 22:29:30 - launcher - INFO - Launcher finished
+2025-10-14 22:30:46 - launcher - INFO - Starting launcher
+2025-10-14 22:30:46 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:30:46 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:30:56 - launcher - INFO - Launcher finished
+2025-10-14 22:33:20 - launcher - INFO - Starting launcher
+2025-10-14 22:33:20 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:33:20 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:33:44 - launcher - INFO - Starting launcher
+2025-10-14 22:33:44 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:33:44 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:34:05 - launcher - INFO - Starting launcher
+2025-10-14 22:34:05 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:34:05 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:34:32 - launcher - INFO - Starting launcher
+2025-10-14 22:34:32 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:36:11 - launcher - INFO - Starting launcher
+2025-10-14 22:36:11 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:36:11 - launcher - INFO - Launcher finished
+2025-10-14 22:36:18 - launcher - INFO - Starting launcher
+2025-10-14 22:36:18 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:36:29 - launcher - INFO - Starting launcher
+2025-10-14 22:36:29 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:36:38 - launcher - INFO - Launching project: file_organizer
+2025-10-14 22:36:43 - launcher - INFO - Launcher finished
+2025-10-14 22:37:49 - launcher - INFO - Starting launcher
+2025-10-14 22:37:49 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:37:49 - launcher - INFO - Launcher finished
+2025-10-14 22:38:10 - launcher - INFO - Starting launcher
+2025-10-14 22:38:10 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:38:10 - launcher - INFO - Launcher finished
+2025-10-14 22:38:11 - launcher - INFO - Starting launcher
+2025-10-14 22:38:11 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:38:23 - launcher - INFO - Launcher finished
+2025-10-14 22:38:25 - launcher - INFO - Starting launcher
+2025-10-14 22:38:25 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:39:01 - launcher - INFO - Launching project: file_organizer
+2025-10-14 22:39:05 - launcher - INFO - Launcher finished
+2025-10-14 22:39:27 - launcher - INFO - Starting launcher
+2025-10-14 22:39:27 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:39:33 - launcher - INFO - Launcher finished
+2025-10-14 22:50:55 - launcher - INFO - Starting launcher
+2025-10-14 22:50:55 - launcher - INFO - Adding project: file_organizer
+2025-10-14 22:50:55 - launcher - INFO - Adding project: random_number_generator
+2025-10-14 22:51:03 - launcher - INFO - Launching project: random_number_generator
+2025-10-14 23:03:52 - launcher - INFO - Launcher finished
+2025-10-14 23:03:53 - launcher - INFO - Starting launcher
+2025-10-14 23:03:53 - launcher - INFO - Adding project: file_organizer
+2025-10-14 23:03:53 - launcher - INFO - Adding project: random_number_generator
+2025-10-14 23:03:57 - launcher - INFO - Launching project: random_number_generator
+2025-10-14 23:06:12 - launcher - INFO - Launcher finished

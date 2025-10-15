@@ -1,0 +1,6 @@
+{
+    "project_description": "What the project is about. This should be a string. Example: This project organizes files into folders based on their type, their date, and their size.",
+    "project_category": "What the category of the project is. This should be a string. Example: Utility",
+    "project_version": "What the version of the project is. You may version however you'd like. it should be a string for better versioning. Example: 0.0.1",
+    "project_author": "Who the author of the project is. This should be a string. Example: Sarenian"
+}
