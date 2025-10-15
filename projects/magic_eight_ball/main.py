@@ -39,21 +39,22 @@ class MagicEightBall:
         """
         This method handles the asking of a question.
         """
-        question = input("Enter your question: ").strip()
-        if question == "":
-            print("Please enter a question.")
-            return
-        print(random.choice(self.responses))
         while True:
-            again = input("Ask another question? (y/n): ").strip().lower()
-            if again == "y":
-                self.ask_question()
-            elif again == "n":
-                print("Goodbye!")
-                break
-            else:
-                print("Invalid choice. Please try again.")
-                return
+            question = input("Enter your question: ").strip()
+            if question == "":
+                print("Please enter a question.")
+                continue
+            print(random.choice(self.responses))
+            while True:
+                again = input("Ask another question? (y/n): ").strip().lower()
+                if again == "y":
+                    break
+                elif again == "n":
+                    print("Goodbye!")
+                    return
+                else:
+                    print("Invalid choice. Please try again.")
+                    continue
 
 
 if __name__ == "__main__":
